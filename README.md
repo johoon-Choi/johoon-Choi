@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 
-### 📌 Tools 🔧
+### 📌 OS 🔧
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
