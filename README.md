@@ -1,12 +1,12 @@
 <div align="center"><h1> johoon-Choi 😏 </h1></div>
 
-<div align="center">### 📌 Im interested in..</div>
+### 📌 Im interested in..
 
 <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
-<div align="center">### 📌 Once I've Used</div>
-<div align="center">
+### 📌 Once I've Used
+
 <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
@@ -17,8 +17,8 @@
 <img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-</div>
-<div align="center">### 📌 Tools</div>
+
+### 📌 Tools
 
 <img src = "https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
@@ -26,7 +26,7 @@
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 
-<div align="center">### 📌 OS</div>
+### 📌 OS
 
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
@@ -45,4 +45,6 @@
 <!---
 johoon-Choi/johoon-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
+
+가운데 정렬 : <div align="center">### 📌 OS</div>
 --->
