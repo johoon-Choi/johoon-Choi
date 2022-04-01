@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
+
 ![johoon-Choi's github stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&show_icons=true)
 [![johoon-Choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/johoon-Choi)
 ![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi)
