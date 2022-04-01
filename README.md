@@ -1,7 +1,7 @@
 # johoon-Choi 😏
 
 
-### 🔵 Once I've Used 🔧
+### 📌 Once I've Used 🔧
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
 
-### 🔵 Tools 🔧
+### 📌 Tools 🔧
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
@@ -24,18 +24,18 @@
 
 ---
 
-### 🔵 블로그 홈페이지
+### 📌 블로그 홈페이지
 - [Tistory Blog](https://johoonday.tistory.com/)
 
 ---
 
 
-### 🔵 Baekjoon Online Judge Solved.ac
+### 📌 Baekjoon Online Judge Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
 
 ---
 
-### 🔵 Github
+### 📌 Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&theme=react&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&layout=compact&theme=react&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
