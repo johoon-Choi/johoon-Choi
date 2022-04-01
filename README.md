@@ -1,7 +1,7 @@
 <div align="center"><h1>johoon-Choi 😏</h1></div>
 
 ### 📌 Im interested in..
-|-----|
+
 |<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>|
 |-----|
 
