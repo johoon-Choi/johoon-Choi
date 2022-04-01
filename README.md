@@ -37,8 +37,6 @@
 
 ### 🔵 Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&theme=react&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&layout=compact&theme=react&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi)
 [![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 johoon-Choi/johoon-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
