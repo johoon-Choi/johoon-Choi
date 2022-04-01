@@ -34,5 +34,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 johoon-Choi/johoon-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. 
 --->
