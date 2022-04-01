@@ -24,12 +24,6 @@
 
 ---
 
-### 📌 블로그 홈페이지
-- [Tistory Blog](https://johoonday.tistory.com/)
-
----
-
-
 ### 📌 Baekjoon Online Judge Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
 
