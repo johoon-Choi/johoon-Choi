@@ -28,6 +28,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&layout=compact&theme=react&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![johoon-Choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/johoon-Choi)
 ![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi)
