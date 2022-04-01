@@ -1,5 +1,4 @@
-# johoon-Choi 😏 
-{: .text-center }
+# johoon-Choi 😏
 
 
 ### 📌 Once I've Used 🔧
