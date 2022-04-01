@@ -1,4 +1,6 @@
-Once I've Used
+# johoon-Choi 
+---
+### Once I've Used 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -10,13 +12,13 @@ Once I've Used
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
-Tools
+### Tools 🔧
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
-
+---
 블로그 홈페이지 : [Tistory Blog](https://johoonday.tistory.com/)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
