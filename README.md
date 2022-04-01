@@ -3,7 +3,7 @@
 
 ### 📌 Once I've Used 🔧
 
-<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" / > < / a>
+<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" / >< / a>
 <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" / >< / a>
 <img src = "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" / >< / a>
