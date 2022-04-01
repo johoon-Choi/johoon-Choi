@@ -3,30 +3,30 @@
 
 ### 📌 Once I've Used 🔧
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" / > < / a>
+<img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" / >< / a>
 
 ### 📌 Tools 🔧
 
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" / >< / a>
 
 ### 📌 OS 🔧
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" / >< / a>
+<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" / >< / a>
 
 ---
 
