@@ -17,7 +17,7 @@ Tools
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 
-[Tistory Blog](https://johoonday.tistory.com/)
+블로그 홈페이지 : [Tistory Blog](https://johoonday.tistory.com/)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
 
