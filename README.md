@@ -27,11 +27,11 @@
 
 ---
 
-### 📌 Github
+### 📌 Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohoon-Choi&count_bg=%238CD0D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johoon-Choi&count_private=true&show_icons=true&theme=react"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=johoon-Choi&show_icons=true&locale=en&layout=compact&theme=react">
 [![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohoon-Choi&count_bg=%238CD0D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!---
 johoon-Choi/johoon-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
