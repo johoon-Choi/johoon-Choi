@@ -11,8 +11,10 @@
 
 ---
 
-### 📌 Baekjoon Online Judge Solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
+### 📌 Baekjoon Online Judge Solved.ac [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
+
+<!---[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)--->
 
 ---
 
