@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=939393&height=150&section=header&text=johoon-Choi%20render&fontSize=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=939393&height=150&section=header&text=johoon-Choi%20render&fontSize=35&fontColor=000000)
 
 |`Once I've Used`|
 |-----|
