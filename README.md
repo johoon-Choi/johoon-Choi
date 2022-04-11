@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F0F0F0&height=130&section=header&text=johoon-Choi&fontAlignY=28&fontSize=30&fontColor=000000)
-
 ### 📌 Tech Stack
 
 |`Once I've Used`|
