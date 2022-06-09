@@ -1,7 +1,3 @@
-<!---![header](https://capsule-render.vercel.app/api?type=waving&color=F0F0F0&height=130&section=header&text=johoon-Choi&fontAlignY=28&fontSize=30&fontColor=000000)
-### 📌 Tech Stack--->
-  
-  
 |`Once I've Used`|
 |-----|
 |<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src = "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src = "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <img src = "https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src = "https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a> <img src = "https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>|
@@ -26,3 +22,7 @@ You can click the Preview link to take a look at your changes.
 가운데 정렬 : <div align="center">### 📌 OS</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&theme=react&show_icons=true&card_width=10px) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&layout=compact&theme=react&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
 --->  
+
+<!---![header](https://capsule-render.vercel.app/api?type=waving&color=F0F0F0&height=130&section=header&text=johoon-Choi&fontAlignY=28&fontSize=30&fontColor=000000)
+### 📌 Tech Stack--->
+  
