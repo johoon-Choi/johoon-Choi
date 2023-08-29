@@ -14,6 +14,7 @@
 <!-- <img src = "https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> <img src = "https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> -->
 
 #### `BOJ Solved.ac` 
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
 
 <!---[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)---> 
@@ -23,6 +24,8 @@
 #### `Github Stats` 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohoon-Choi&count_bg=%238CD0D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=2022-1_AI_Study)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
