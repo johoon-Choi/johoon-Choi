@@ -19,7 +19,9 @@
 ---
 
 #### `Github Stats` [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohoon-Choi&count_bg=%238CD0D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&layout=compact&theme=github_dark&langs_count=10&hide=Jupyter-Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johoon-Choi&layout=compact&theme=github_dark&langs_count=10&hide=Jupyter-Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johoon-Choi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!---
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johoon-Choi&count_private=true&show_icons=true&theme=react">
 [![trophy](https://github-profile-trophy.vercel.app/?username=johoon-Choi&theme=onedark&column=8&row=2)](https://github.com/ryo-ma/github-profile-trophy)
