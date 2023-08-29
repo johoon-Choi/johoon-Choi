@@ -4,15 +4,16 @@
 
 
 #### `Interested in`
-- <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src = "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src = "https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a> <img src = "https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+|<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src = "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src = "https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a> <img src = "https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>|
+|----|
 
 #### `Preferred IDE`
-- <img src = "https://img.shields.io/badge/intelliJ IDEA-000000?style=flat-square&logo=intelliJ IDEA&logoColor=white"/></a> <img src = "https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a> <img src = "https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> <img src = "https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>  <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+|<img src = "https://img.shields.io/badge/intelliJ IDEA-000000?style=flat-square&logo=intelliJ IDEA&logoColor=white"/></a> <img src = "https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a> <img src = "https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> <img src = "https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>  <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>|
+|----|
 
 <!-- <img src = "https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src = "https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> <img src = "https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> -->
 
-#### `BOJ Solved.ac`
-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
+#### `BOJ Solved.ac` [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)
 
 <!---[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon4687)](https://solved.ac/johoon4687)---> 
  
